@@ -1,4 +1,5 @@
 Hi there!
 
- - you can have a chat with me in the [Telegram](https://t.me/akulik512) and [Twitter](https://twitter.com/akulik512)
-
+📨 Contacts:
+- **Telegram** [@akulik512](https://t.me/akulik512)
+- ~~Twitter~~ **X** [@akulik512](https://twitter.com/akulik512)
